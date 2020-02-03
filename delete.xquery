@@ -1,0 +1,1 @@
+update delete /SOCIOS_GIM/fila_socios[COD=1]
